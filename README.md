@@ -15,5 +15,7 @@ A program that generates a file of specified size
 # Installation
 
 step 1: download the zip file from releases
+
 step 2: unzip file
+
 step 3: run .exe file
