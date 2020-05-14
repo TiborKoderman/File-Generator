@@ -1,7 +1,7 @@
 # File-Generator
 A program that generates a file of specified size
 
-Usage:
+# Usage:
 
 1. Put the program in the folder you which to generate the file in
 2. Run the program
@@ -11,3 +11,9 @@ Usage:
 6. Wait for the program to finish
 7. Click enter and close the program.
 8. Delete the program
+
+# Installation
+
+step 1: download the zip file from releases
+step 2: unzip file
+step 3: run .exe file
