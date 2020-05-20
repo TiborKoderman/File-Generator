@@ -1,6 +1,11 @@
 # File-Generator
 A program that generates a file of specified size
 
+# WHY?
+1. Why not?
+2. To test integrity of hard drives
+3. Randomness makes file hard or impossible to compress
+
 # Usage:
 
 1. Put the program in the folder you which to generate the file in
